@@ -12,3 +12,4 @@ for produkty in sklepy.values():
 print(f"W sumie kupuję {ilość} produktów.")
 
 print("Co tu jeszcze można dodać?")
+print(f"Może więcej produktów z {sklep}?")
